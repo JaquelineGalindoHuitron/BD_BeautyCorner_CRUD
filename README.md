@@ -1,5 +1,5 @@
-# bd_beautycorner_crud
-Tabla Cliente
+# BD_BeautyCorner_CRUD
+Tabla Servicios
 
 ## Estructura de la tabla
-![tablacliente](https://github.com/JaquelineGalindoHuitron/bd_beautycorner_crud/blob/main/estructuratabla.png)
+![tablaservicios](https://github.com/JaquelineGalindoHuitron/bd_beautycorner_crud/blob/main/estructuratabla.png)
