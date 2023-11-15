@@ -129,7 +129,7 @@
                 </div>
                 <form class="p-4" method="POST" action="registrar.php">
                     <div class="mb-3">
-                        <label class="form-label">Nombre Servicio: </label>
+                        <label class="form-label">Nombre del Servicio: </label>
                         <input type="text" class="form-control" name="txtServicio" autofocus required>
                     </div>
                     <div class="mb-3">
@@ -137,7 +137,7 @@
                         <input type="text" class="form-control" name="txtDescripcion" autofocus required>
                     </div>
                     <div class="mb-3">
-                        <label class="form-label">Nombre Empleado: </label>
+                        <label class="form-label">Nombre del Empleado: </label>
                         <input type="text" class="form-control" name="txtEmpleado" autofocus required>
                     </div>
                     <div class="mb-3">
