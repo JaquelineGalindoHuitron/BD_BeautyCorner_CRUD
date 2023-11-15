@@ -1,7 +1,7 @@
 # BD_BeautyCorner_CRUD
 Tabla Servicios
 
-## Estructura de la tabla
+## Estructura de la Tabla
 ![tablaservicios](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD/blob/main/estructuratabla.png)
 
 ## Pagina de Inicio
